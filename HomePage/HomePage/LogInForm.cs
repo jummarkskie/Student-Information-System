@@ -134,6 +134,8 @@ namespace HomePage
                             sdr.Read();
                             string use = sdr["UserName"].ToString();
                             String paw = sdr["Password"].ToString();
+                            String paw = sdr["Neilsoy"].ToString();
+                            
 
                             if (use == UseName.Text.ToString() && paw == password.Text.ToString())
                             {
