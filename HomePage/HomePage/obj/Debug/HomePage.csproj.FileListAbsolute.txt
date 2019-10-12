@@ -21,3 +21,26 @@ C:\Users\Reymark\source\repos\HomePage\HomePage\obj\Debug\HomePage.LogInForm.res
 C:\Users\Reymark\source\repos\HomePage\HomePage\obj\Debug\HomePage.schoolActivities.resources
 C:\Users\Reymark\source\repos\HomePage\HomePage\obj\Debug\HomePage.studentRecord.resources
 C:\Users\Reymark\source\repos\HomePage\HomePage\obj\Debug\HomePage.Security.resources
+D:\Student Info\trunk\HomePage\HomePage\obj\Debug\HomePage.csprojAssemblyReference.cache
+D:\Student Info\trunk\HomePage\HomePage\obj\Debug\HomePage.events.resources
+D:\Student Info\trunk\HomePage\HomePage\obj\Debug\HomePage.LogForm.resources
+D:\Student Info\trunk\HomePage\HomePage\obj\Debug\HomePage.LogInForm.resources
+D:\Student Info\trunk\HomePage\HomePage\obj\Debug\HomePage.profile.resources
+D:\Student Info\trunk\HomePage\HomePage\obj\Debug\HomePage.schoolActivities.resources
+D:\Student Info\trunk\HomePage\HomePage\obj\Debug\HomePage.Security.resources
+D:\Student Info\trunk\HomePage\HomePage\obj\Debug\HomePage.sendReport.resources
+D:\Student Info\trunk\HomePage\HomePage\obj\Debug\HomePage.Sms.resources
+D:\Student Info\trunk\HomePage\HomePage\obj\Debug\HomePage.StudentInfo.resources
+D:\Student Info\trunk\HomePage\HomePage\obj\Debug\HomePage.Properties.Resources.resources
+D:\Student Info\trunk\HomePage\HomePage\obj\Debug\HomePage.regestration.resources
+D:\Student Info\trunk\HomePage\HomePage\obj\Debug\HomePage.sAoPage.resources
+D:\Student Info\trunk\HomePage\HomePage\obj\Debug\HomePage.studentRecord.resources
+D:\Student Info\trunk\HomePage\HomePage\obj\Debug\HomePage.csproj.GenerateResource.cache
+D:\Student Info\trunk\HomePage\HomePage\obj\Debug\HomePage.csproj.CoreCompileInputs.cache
+D:\Student Info\trunk\HomePage\HomePage\obj\Debug\HomePage.exe
+D:\Student Info\trunk\HomePage\HomePage\obj\Debug\HomePage.pdb
+D:\Student Info\trunk\HomePage\HomePage\bin\Debug\HomePage.exe.config
+D:\Student Info\trunk\HomePage\HomePage\bin\Debug\HomePage.exe
+D:\Student Info\trunk\HomePage\HomePage\bin\Debug\HomePage.pdb
+D:\Student Info\trunk\HomePage\HomePage\bin\Debug\MaterialSkin.dll
+D:\Student Info\trunk\HomePage\HomePage\obj\Debug\HomePage.csproj.CopyComplete

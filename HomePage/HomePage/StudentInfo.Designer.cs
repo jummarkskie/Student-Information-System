@@ -144,7 +144,7 @@
             this.guardian.BackColor = System.Drawing.Color.Transparent;
             this.guardian.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guardian.ForeColor = System.Drawing.Color.Lime;
-            this.guardian.Location = new System.Drawing.Point(76, 459);
+            this.guardian.Location = new System.Drawing.Point(101, 459);
             this.guardian.Name = "guardian";
             this.guardian.Size = new System.Drawing.Size(74, 15);
             this.guardian.TabIndex = 67;
@@ -153,7 +153,7 @@
             // guard
             // 
             this.guard.BackColor = System.Drawing.Color.Silver;
-            this.guard.Location = new System.Drawing.Point(178, 454);
+            this.guard.Location = new System.Drawing.Point(194, 454);
             this.guard.Name = "guard";
             this.guard.Size = new System.Drawing.Size(145, 20);
             this.guard.TabIndex = 19;
@@ -215,7 +215,7 @@
             // fath
             // 
             this.fath.BackColor = System.Drawing.Color.Silver;
-            this.fath.Location = new System.Drawing.Point(178, 428);
+            this.fath.Location = new System.Drawing.Point(194, 428);
             this.fath.Name = "fath";
             this.fath.Size = new System.Drawing.Size(145, 20);
             this.fath.TabIndex = 13;
@@ -226,7 +226,7 @@
             this.fathName.BackColor = System.Drawing.Color.Transparent;
             this.fathName.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.fathName.ForeColor = System.Drawing.Color.Lime;
-            this.fathName.Location = new System.Drawing.Point(41, 428);
+            this.fathName.Location = new System.Drawing.Point(66, 428);
             this.fathName.Name = "fathName";
             this.fathName.Size = new System.Drawing.Size(109, 15);
             this.fathName.TabIndex = 59;
@@ -235,7 +235,7 @@
             // moth
             // 
             this.moth.BackColor = System.Drawing.Color.Silver;
-            this.moth.Location = new System.Drawing.Point(178, 402);
+            this.moth.Location = new System.Drawing.Point(194, 402);
             this.moth.Name = "moth";
             this.moth.Size = new System.Drawing.Size(145, 20);
             this.moth.TabIndex = 12;
@@ -246,7 +246,7 @@
             this.mothName.BackColor = System.Drawing.Color.Transparent;
             this.mothName.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.mothName.ForeColor = System.Drawing.Color.Lime;
-            this.mothName.Location = new System.Drawing.Point(37, 405);
+            this.mothName.Location = new System.Drawing.Point(62, 405);
             this.mothName.Name = "mothName";
             this.mothName.Size = new System.Drawing.Size(113, 15);
             this.mothName.TabIndex = 57;
@@ -271,7 +271,7 @@
             this.gen.Items.AddRange(new object[] {
             "Male",
             "Female"});
-            this.gen.Location = new System.Drawing.Point(178, 368);
+            this.gen.Location = new System.Drawing.Point(194, 368);
             this.gen.Name = "gen";
             this.gen.Size = new System.Drawing.Size(145, 21);
             this.gen.TabIndex = 11;
@@ -280,7 +280,7 @@
             // age
             // 
             this.age.BackColor = System.Drawing.Color.Silver;
-            this.age.Location = new System.Drawing.Point(178, 332);
+            this.age.Location = new System.Drawing.Point(194, 332);
             this.age.Name = "age";
             this.age.Size = new System.Drawing.Size(145, 20);
             this.age.TabIndex = 10;
@@ -288,7 +288,7 @@
             // Mn
             // 
             this.Mn.BackColor = System.Drawing.Color.Silver;
-            this.Mn.Location = new System.Drawing.Point(178, 222);
+            this.Mn.Location = new System.Drawing.Point(200, 222);
             this.Mn.Name = "Mn";
             this.Mn.Size = new System.Drawing.Size(145, 20);
             this.Mn.TabIndex = 6;
@@ -296,7 +296,7 @@
             // Mi
             // 
             this.Mi.BackColor = System.Drawing.Color.Silver;
-            this.Mi.Location = new System.Drawing.Point(178, 196);
+            this.Mi.Location = new System.Drawing.Point(200, 196);
             this.Mi.Name = "Mi";
             this.Mi.Size = new System.Drawing.Size(145, 20);
             this.Mi.TabIndex = 5;
@@ -304,7 +304,7 @@
             // Fname
             // 
             this.Fname.BackColor = System.Drawing.Color.Silver;
-            this.Fname.Location = new System.Drawing.Point(178, 174);
+            this.Fname.Location = new System.Drawing.Point(200, 174);
             this.Fname.Name = "Fname";
             this.Fname.Size = new System.Drawing.Size(145, 20);
             this.Fname.TabIndex = 4;
@@ -312,7 +312,7 @@
             // Lname
             // 
             this.Lname.BackColor = System.Drawing.Color.Silver;
-            this.Lname.Location = new System.Drawing.Point(178, 149);
+            this.Lname.Location = new System.Drawing.Point(200, 149);
             this.Lname.Name = "Lname";
             this.Lname.Size = new System.Drawing.Size(145, 20);
             this.Lname.TabIndex = 3;
@@ -323,7 +323,7 @@
             this.gender.BackColor = System.Drawing.Color.Transparent;
             this.gender.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.gender.ForeColor = System.Drawing.Color.Lime;
-            this.gender.Location = new System.Drawing.Point(88, 377);
+            this.gender.Location = new System.Drawing.Point(113, 377);
             this.gender.Name = "gender";
             this.gender.Size = new System.Drawing.Size(62, 15);
             this.gender.TabIndex = 45;
@@ -335,7 +335,7 @@
             this.aged.BackColor = System.Drawing.Color.Transparent;
             this.aged.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.aged.ForeColor = System.Drawing.Color.Lime;
-            this.aged.Location = new System.Drawing.Point(111, 337);
+            this.aged.Location = new System.Drawing.Point(136, 337);
             this.aged.Name = "aged";
             this.aged.Size = new System.Drawing.Size(39, 15);
             this.aged.TabIndex = 44;
@@ -347,7 +347,7 @@
             this.previous.BackColor = System.Drawing.Color.Transparent;
             this.previous.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.previous.ForeColor = System.Drawing.Color.Lime;
-            this.previous.Location = new System.Drawing.Point(15, 310);
+            this.previous.Location = new System.Drawing.Point(1, 306);
             this.previous.Name = "previous";
             this.previous.Size = new System.Drawing.Size(178, 15);
             this.previous.TabIndex = 43;
@@ -359,7 +359,7 @@
             this.pA.BackColor = System.Drawing.Color.Transparent;
             this.pA.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.pA.ForeColor = System.Drawing.Color.Lime;
-            this.pA.Location = new System.Drawing.Point(31, 282);
+            this.pA.Location = new System.Drawing.Point(58, 282);
             this.pA.Name = "pA";
             this.pA.Size = new System.Drawing.Size(119, 15);
             this.pA.TabIndex = 42;
@@ -371,7 +371,7 @@
             this.date.BackColor = System.Drawing.Color.Transparent;
             this.date.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.date.ForeColor = System.Drawing.Color.Lime;
-            this.date.Location = new System.Drawing.Point(55, 255);
+            this.date.Location = new System.Drawing.Point(82, 255);
             this.date.Name = "date";
             this.date.Size = new System.Drawing.Size(95, 15);
             this.date.TabIndex = 41;
@@ -383,7 +383,7 @@
             this.mob.BackColor = System.Drawing.Color.Transparent;
             this.mob.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.mob.ForeColor = System.Drawing.Color.Lime;
-            this.mob.Location = new System.Drawing.Point(36, 227);
+            this.mob.Location = new System.Drawing.Point(63, 227);
             this.mob.Name = "mob";
             this.mob.Size = new System.Drawing.Size(114, 15);
             this.mob.TabIndex = 40;
@@ -395,7 +395,7 @@
             this.mid.BackColor = System.Drawing.Color.Transparent;
             this.mid.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.mid.ForeColor = System.Drawing.Color.Lime;
-            this.mid.Location = new System.Drawing.Point(51, 201);
+            this.mid.Location = new System.Drawing.Point(78, 201);
             this.mid.Name = "mid";
             this.mid.Size = new System.Drawing.Size(99, 15);
             this.mid.TabIndex = 39;
@@ -407,7 +407,7 @@
             this.fn.BackColor = System.Drawing.Color.Transparent;
             this.fn.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.fn.ForeColor = System.Drawing.Color.Lime;
-            this.fn.Location = new System.Drawing.Point(65, 174);
+            this.fn.Location = new System.Drawing.Point(92, 174);
             this.fn.Name = "fn";
             this.fn.Size = new System.Drawing.Size(85, 15);
             this.fn.TabIndex = 38;
@@ -419,7 +419,7 @@
             this.ln.BackColor = System.Drawing.Color.Transparent;
             this.ln.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ln.ForeColor = System.Drawing.Color.Lime;
-            this.ln.Location = new System.Drawing.Point(66, 148);
+            this.ln.Location = new System.Drawing.Point(93, 148);
             this.ln.Name = "ln";
             this.ln.Size = new System.Drawing.Size(84, 15);
             this.ln.TabIndex = 37;
@@ -431,7 +431,7 @@
             this.sI.BackColor = System.Drawing.Color.Transparent;
             this.sI.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.sI.ForeColor = System.Drawing.Color.Lime;
-            this.sI.Location = new System.Drawing.Point(70, 123);
+            this.sI.Location = new System.Drawing.Point(97, 123);
             this.sI.Name = "sI";
             this.sI.Size = new System.Drawing.Size(80, 15);
             this.sI.TabIndex = 36;
@@ -469,7 +469,7 @@
             // sId
             // 
             this.sId.BackColor = System.Drawing.Color.Silver;
-            this.sId.Location = new System.Drawing.Point(178, 123);
+            this.sId.Location = new System.Drawing.Point(200, 123);
             this.sId.Name = "sId";
             this.sId.Size = new System.Drawing.Size(145, 20);
             this.sId.TabIndex = 2;
@@ -478,7 +478,7 @@
             // Pres
             // 
             this.Pres.BackColor = System.Drawing.Color.Silver;
-            this.Pres.Location = new System.Drawing.Point(178, 279);
+            this.Pres.Location = new System.Drawing.Point(199, 282);
             this.Pres.Name = "Pres";
             this.Pres.Size = new System.Drawing.Size(145, 20);
             this.Pres.TabIndex = 8;
@@ -486,7 +486,7 @@
             // PsA
             // 
             this.PsA.BackColor = System.Drawing.Color.Silver;
-            this.PsA.Location = new System.Drawing.Point(189, 305);
+            this.PsA.Location = new System.Drawing.Point(199, 305);
             this.PsA.Name = "PsA";
             this.PsA.Size = new System.Drawing.Size(134, 20);
             this.PsA.TabIndex = 9;
@@ -494,7 +494,7 @@
             // search
             // 
             this.search.BackColor = System.Drawing.Color.Silver;
-            this.search.Location = new System.Drawing.Point(178, 82);
+            this.search.Location = new System.Drawing.Point(200, 82);
             this.search.Name = "search";
             this.search.Size = new System.Drawing.Size(138, 20);
             this.search.TabIndex = 1;
@@ -580,7 +580,7 @@
             this.label4.BackColor = System.Drawing.Color.Transparent;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.Color.Lime;
-            this.label4.Location = new System.Drawing.Point(78, 83);
+            this.label4.Location = new System.Drawing.Point(105, 83);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(72, 15);
             this.label4.TabIndex = 87;
@@ -611,7 +611,7 @@
             // dob
             // 
             this.dob.Format = System.Windows.Forms.DateTimePickerFormat.Short;
-            this.dob.Location = new System.Drawing.Point(178, 248);
+            this.dob.Location = new System.Drawing.Point(200, 248);
             this.dob.Name = "dob";
             this.dob.Size = new System.Drawing.Size(145, 20);
             this.dob.TabIndex = 7;

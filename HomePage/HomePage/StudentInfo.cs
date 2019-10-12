@@ -65,7 +65,7 @@ namespace HomePage
             }
 
         }
-
+        //reset
         public void Ueset()
         {
 
@@ -126,7 +126,7 @@ namespace HomePage
 
         }
 
-
+        //Show ug Data
         public void showdata()
         {
             try
@@ -134,7 +134,7 @@ namespace HomePage
                 SqlConnection cons = new SqlConnection(Properties.Settings.Default.conString);
                 SqlDataAdapter adpt;
                 DataTable dt;
-                adpt = new SqlDataAdapter("SELECT * FROM t_sIs ORDER BY f_fname", cons);
+                adpt = new SqlDataAdapter("SELECT f_Id, f_lname, f_fname,f_mi,f_mn,f_dept,Year FROM t_sIs ORDER BY f_fname", cons);
                 dt = new DataTable();
                 adpt.Fill(dt);
                 dataGridView2.DataSource = dt;
@@ -425,5 +425,7 @@ namespace HomePage
         {
 
         }
+
+        
     }
 }
